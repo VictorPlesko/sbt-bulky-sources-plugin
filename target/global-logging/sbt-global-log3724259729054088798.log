@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(publishLocal, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: publishLocal[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/bulkysourcesplugin-0.1.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/api...[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: default#bulkysourcesplugin;0.1 :: 0.1 :: release :: Thu Feb 18 18:15:13 MSK 2021[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/ivy-0.1.xml[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed 18 февр. 2021 г., 18:15:13[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

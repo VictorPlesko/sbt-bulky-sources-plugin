@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: by.plesko:bulkysourcesplugin:0.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

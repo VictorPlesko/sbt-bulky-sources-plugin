@@ -1,0 +1,49 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(publishLocal, Some(8187793f-6d50-4339-9329-d3ff08d82f18), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: publishLocal[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mWrote /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/bulkysourcesplugin-0.1.pom[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/api...[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.12' for Scala 2.12.12. Compiling...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 6.861s.[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: by.plesko#bulkysourcesplugin;0.1 :: 0.1 :: release :: Thu Feb 18 21:47:03 MSK 2021[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/ivy-0.1.xml[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml.sha1 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[33mwarn[0m] [0m[0mAttempting to overwrite /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml.md5 (non-SNAPSHOT)[0m
+[0m[[0m[33mwarn[0m] [0m[0m	You need to remove it from the cache manually to take effect.[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/victor/.ivy2/local/by.plesko/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 10 s, completed 18 февр. 2021 г., 21:47:03[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0minfo[0m] [0m[0mshutting down sbt server[0m

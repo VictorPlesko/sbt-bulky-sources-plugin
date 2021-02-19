@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/bulkysourcesplugin-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BulkySourcesPlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes/BulkySourcesPlugin$autoImport$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BulkySourcesPlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes/BulkySourcesPlugin$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes/sbt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sbt/sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes/sbt/sbt.autoplugins[0m
+[0m[[0m[0mdebug[0m] [0m[0m	BulkySourcesPlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/classes/BulkySourcesPlugin.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,10 @@
+[0m[[0m[0minfo[0m] [0m[0m:: delivering :: default#bulkysourcesplugin;0.1 :: 0.1 :: release :: Fri Feb 19 11:34:54 MSK 2021[0m
+[0m[[0m[0mdebug[0m] [0m[0m	options = status=release pubdate=Fri Feb 19 11:34:54 MSK 2021 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0m[0minfo[0m] [0m[0m	delivering ivy file to /home/victor/Scala/BulkySourcesPlugin/target/scala-2.12/sbt-1.0/ivy-0.1.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	deliver done (87ms)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlocal do not support transaction. ivy pattern does not use revision as a directory[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/poms/bulkysourcesplugin.pom[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/jars/bulkysourcesplugin.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/srcs/bulkysourcesplugin-sources.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published bulkysourcesplugin to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/docs/bulkysourcesplugin-javadoc.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m	published ivy to /home/victor/.ivy2/local/default/bulkysourcesplugin/scala_2.12/sbt_1.0/0.1/ivys/ivy.xml[0m
